@@ -9,7 +9,7 @@ def home():
 
 @app.route("/info")
 def sktechopsinfo():
-    return '<h1 style="color:violet;">****Welcome to Thiru DevOps Project---Thank You</h1>'
+    return '<h1 style="color:violet;">****Welcome to Thiru-DevOps Project---Thank You</h1>'
 
 @app.route("/contact")
 def sktechopsmobilenumber():
